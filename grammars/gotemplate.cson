@@ -4,11 +4,11 @@
 'foldingStopMarker': '\\{\\{\\s*(?:else|end)\\b'
 'patterns': [
   {
-    'begin': '\\{\\{'
+    'begin': '\\{\\{\\{'
     'beginCaptures':
       '0':
         'name': 'punctuation.section.embedded.begin.gotemplate'
-    'end': '\\}\\}'
+    'end': '\\}\\}\\}'
     'endCaptures':
       '0':
         'name': 'punctuation.section.embedded.end.gotemplate'
