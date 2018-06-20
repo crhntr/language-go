@@ -1,7 +1,8 @@
 'scopeName': 'text.html.gohtml'
 'name': 'HTML (Go)'
 'fileTypes': [
-  'gohtml'
+  'gohtml',
+  '_go.html'
 ]
 'patterns': [
   {
