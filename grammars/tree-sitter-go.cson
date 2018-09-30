@@ -8,6 +8,8 @@ fileTypes: [
   'go'
 ]
 
+scopeName: 'source.crhntr'
+
 comments:
   start: '// '
 
